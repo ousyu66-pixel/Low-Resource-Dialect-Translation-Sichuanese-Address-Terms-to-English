@@ -1,0 +1,2 @@
+system,BLEU,chrF,train_label,test_reference
+S_tuned_LoRA_mBART50_SC_to_EN,9.873555185722832,30.887752707055725,NLLB pseudo English translated from train Mandarin,english
