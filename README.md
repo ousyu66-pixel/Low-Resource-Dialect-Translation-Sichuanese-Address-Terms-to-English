@@ -39,6 +39,8 @@ The dataset was derived from the **WenetSpeech-Chuan+** corpus and further proce
 | -------------------------------------------- | --------------------------------------------------------------- |
 | `data/processed/train_9800_zh.csv`           | Sichuanese–Mandarin dataset                                     |
 | `data/processed/train_9800_zh_pseudo_en.csv` | Sichuanese–Mandarin–pseudo-English dataset used for MT training |
+|`data/processed/test_200.csv                  |test csv
+||`data/processed/golden_manually_200_en.csv   |used for personal address analysis
 
 ### Address-Term Evaluation Data
 
